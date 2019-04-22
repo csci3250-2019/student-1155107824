@@ -27,5 +27,7 @@ github account|EFSEVEN
 - [ ] 3250project ms2
 - [ ] 3250project ms3
 
-
+![figure1](/pic1.png)
+![figure2](/pic2.png)
+![figure3](/pic3.png)
 
